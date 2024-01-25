@@ -1,0 +1,25 @@
+body{
+    background-color: blueviolet;
+}
+#UHR{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12em;
+    
+}
+
+#DATE{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    height: -0vh;
+
+}
